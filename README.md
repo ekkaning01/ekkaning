@@ -1,3 +1,3 @@
 # ekkaning
 Student Learning Python
-Emmanuel Kaning
+Emmanuel Kaning OPS445 NAA
