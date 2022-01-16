@@ -1,0 +1,2 @@
+# ekkaning
+Student Learning Python
